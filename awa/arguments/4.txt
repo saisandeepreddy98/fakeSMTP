@@ -1,0 +1,18 @@
+Q.Arctic deer live on islands in Canada's arctic regions. They search for food by moving over ice from island to island during the course of the year. Their habitat is limited to areas warm enough to sustain the plants on which they feed and cold enough, at least some of the year, for the ice to cover the sea separating the islands, allowing the deer to travel over it. Unfortunately, according to reports from local hunters, the deer populations are declining. Since these reports coincide with recent global warming trends that have caused the sea ice to melt, we can conclude that the purported decline in deer populations is the result of the deer's being unable to follow their age-old migration patterns across the frozen sea.
+
+across
+occurred
+snakes
+snakes
+have-plural
+warming
+
+Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+The author of the argument states that according to the reports from local hunters the Arctic deer population is declining. The author came to this conclusion based on the reports from local hunters and global warming effect which caused the deer's being unable to follow their age-old migration patterns across the frozen sea. However, before the recommendation to be evaluated, two questions need to be answered.
+
+First of all, is there any natural disaster occurred near the islands or dangerous animals like snakes have recently migrated to the region? There might be a natural disaster like tsunami or volcano occurred in one of the islands where most of the deers' population is inhabited. Further, dangerous animals like snakes might have migrated to the island and started killing the deers for their prey. If either of these scenarios has merits, then the conclusion drawn in the original argument is significantly weakened.   
+
+Secondly, did most of the deers migrate from current habitat to the northern part of the Canada where they have similar climatic conditions and food? It might be possible that most deers have migrated during the period of the year when the sea is covered with ice. Further, due to the global warming effect, the government might have moved the deers to a different place where deers can survive. If either of these scenarios has merits, then the conclusion drawn in the original argument evidence is significantly weakened.   
+
+In conclusion, the argument, as it stands now, is considerably flawed due to its reliance on several unstated assumptions. If the author can answer the two questions mentioned above and offer evidence, then it will be possible to fully evaluate the viability of proposed.
